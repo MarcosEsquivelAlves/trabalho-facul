@@ -1,0 +1,155 @@
+@media only screen and (max-width: 750px) {
+
+  header h1 {
+    font-size: 20px;
+  }
+
+
+  .destaque-produto {
+    display: inline-block;
+    margin: auto;
+    max-width: 100%;
+    text-align: center;
+  }
+
+  .destaque-produto .produto-info button {
+    font-size: 15px;
+  }
+
+  .destaque-produto .produto-info span {
+    font-size: 20px;
+  }
+
+  .destaque-produto .produto-imagem img {
+    max-width: 100%;
+    display: inline-block;
+    margin: auto;
+    width: 300px;
+  }
+
+  .destaque-produto .produto-info h2 {
+    font-size: 18px;
+  }
+
+  .destaque-produto .produto-info h3 {
+    font-size: 15px;
+  }
+
+  .destaque-produto .produto-info p {
+    font-size: 14px;
+  }
+
+
+  .recursos {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .recurso-icones img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .recurso-descricao {
+    font-size: 13px;
+    width: 80%;
+    text-align: center;
+  }
+
+  .recurso1 {
+    font-size: 16px;
+  }
+
+  .recurso2 {
+    font-size: 16px;
+  }
+
+  .recurso3 {
+    font-size: 16px;
+  }
+
+  .recurso4 {
+    font-size: 16px;
+  }
+
+}
+
+
+@media only screen and (min-width: 751px) and (max-width: 1220px) {
+
+  header h1 {
+    font-size: 23px;
+  }
+
+
+  .destaque-produto {
+    margin: auto;
+    max-width: 100%;
+    text-align: center;
+  }
+
+  .destaque-produto .produto-info button {
+    font-size: 15px;
+  }
+
+  .destaque-produto .produto-info span {
+    font-size: 21px;
+  }
+
+  
+  .destaque-produto .produto-imagem img {
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+    margin: auto;
+    width: 400px;
+    
+  }
+
+  .destaque-produto .produto-info h2 {
+    font-size: 22px;
+  }
+
+  .destaque-produto .produto-info h3 {
+    font-size: 18px;
+  }
+
+  .destaque-produto .produto-info p {
+    font-size: 16px;
+  }
+
+
+  .recursos {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .recurso-icones img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .recurso-descricao {
+    font-size: 16px;
+    width: 80%;
+    text-align: center;
+  }
+
+  .recurso1 p {
+    font-size: 17px;
+  }
+
+  .recurso2 p {
+    font-size: 17px;
+  }
+
+  .recurso3 p {
+    font-size: 17px;
+  }
+
+  .recurso4 p {
+    font-size: 17px;
+  }
+
+}
+
